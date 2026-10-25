@@ -1,0 +1,11 @@
+{
+  "version": "0.10.0",
+  "notes": "Placeholder release. Replace the download URL, SHA-256 checksum and byte size before installing.",
+  "platforms": {
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://example.com/REPLACE_ME/burm/0.10.0/x86_64-unknown-linux-gnu/burm",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 1
+    }
+  }
+}
