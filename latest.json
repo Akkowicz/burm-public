@@ -1,11 +1,16 @@
 {
-  "version": "0.10.0",
-  "notes": "Placeholder release. Replace the download URL, SHA-256 checksum and byte size before installing.",
+  "version": "0.13.2",
+  "notes": "BURM 0.13.2",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://example.com/REPLACE_ME/burm/0.10.0/x86_64-unknown-linux-gnu/burm",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "size": 1
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.13.2/burm-x86_64-unknown-linux-gnu",
+      "sha256": "a7f9dcc1bfc57ea7ede792329da7039f66c47ac94b8983476fef84e0297c7513",
+      "size": 260658808
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.13.2/burm-x86_64-pc-windows-msvc.exe",
+      "sha256": "a2a84185a69845e8b59caabb44e9cadfa44ae917400e5be12c052d7a48b60e50",
+      "size": 179881984
     }
   }
 }
