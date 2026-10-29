@@ -1,0 +1,16 @@
+{
+  "version": "0.18.0",
+  "notes": "BURM 0.18.0",
+  "platforms": {
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.18.0/burm_launcher-x86_64-unknown-linux-gnu",
+      "sha256": "307774d9c163edb681af42fb4c3a067375f959ee98113bdb8c2261e1015477ed",
+      "size": 63768992
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.18.0/burm_launcher-x86_64-pc-windows-msvc.exe",
+      "sha256": "7d681714f4efcb45436adf794862dce3231fde685298989aa7356a4c0acdf382",
+      "size": 54040064
+    }
+  }
+}
