@@ -1,0 +1,16 @@
+{
+  "version": "0.20.0",
+  "notes": "BURM 0.20.0",
+  "platforms": {
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.20.0/burm-x86_64-unknown-linux-gnu",
+      "sha256": "02d68426b0d9294514b85708b29a4095ae4e3f5aa1e84d2ac5f3cb0b23cf74b9",
+      "size": 266501608
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.20.0/burm-x86_64-pc-windows-msvc.exe",
+      "sha256": "d7fa5cfcfe1c706cd13b312bf7815807edc03c32f2a2c9a1fe16b9ddf6550508",
+      "size": 182358528
+    }
+  }
+}
