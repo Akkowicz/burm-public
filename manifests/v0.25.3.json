@@ -1,6 +1,6 @@
 {
   "version": "0.25.3",
-  "notes": "BURM 0.25.3",
+  "notes": "BURM 0.25.3: filling water is now a single Fill action. Activate a waterskin, pot, watering can or barrel and click lake, river or well water to fill it; with no container active, Fill tops up every carried waterskin. Wells fill what they hold when low. Compatible with 0.25 servers and clients.",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.25.3/burm-x86_64-unknown-linux-gnu",
