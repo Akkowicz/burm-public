@@ -1,6 +1,6 @@
 {
   "version": "0.26.0",
-  "notes": "BURM 0.26.0",
+  "notes": "BURM 0.26.0: strikes now aim at the body, head or legs (F8) and wounds impair the region they land on. Work that runs out of stamina pauses to catch breath instead of being refused. Construction lays foundations in one step and keeps adding stages while materials last. Context menus group related actions into flyouts, settlements use one panel for status, treasury and members, and the Skills window shows unlocks and training routes. Climbing grabs ladders and steep faces by walking into them, hearths take one Add fuel action, and swimming drains half the stamina. Not compatible with 0.25: servers and clients must both run 0.26.",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.26.0/burm-x86_64-unknown-linux-gnu",
