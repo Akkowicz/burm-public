@@ -1,6 +1,6 @@
 {
   "version": "0.26.1",
-  "notes": "BURM 0.26.1",
+  "notes": "BURM 0.26.1: felling cuts a tree through to the fall, and hearths carry on building stages or say what they are missing. Escape stops active work, K opens the recipe book, R eats the first carried food while a tool is in hand, and carried containers offer Activate. Drowning is reported as one gasp a second, with a single warning when swimming or climbing stamina runs low; festering wounds no longer interrupt work. The recipe book says why a hidden recipe is unavailable, tools warn once when badly worn, and chest and storage takes are summarized in one line. Compatible with 0.26.0 clients and servers.",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.26.1/burm-x86_64-unknown-linux-gnu",
