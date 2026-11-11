@@ -1,16 +1,16 @@
 {
-  "version": "0.26.0",
-  "notes": "BURM 0.26.0: strikes now aim at the body, head or legs (F8) and wounds impair the region they land on. Work that runs out of stamina pauses to catch breath instead of being refused. Construction lays foundations in one step and keeps adding stages while materials last. Context menus group related actions into flyouts, settlements use one panel for status, treasury and members, and the Skills window shows unlocks and training routes. Climbing grabs ladders and steep faces by walking into them, hearths take one Add fuel action, and swimming drains half the stamina. Not compatible with 0.25: servers and clients must both run 0.26.",
+  "version": "0.26.1",
+  "notes": "BURM 0.26.1",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.26.0/burm-x86_64-unknown-linux-gnu",
-      "sha256": "23b57dba6fd2be261993da09426519906da8f12f4e51a14f85c8594915f21757",
-      "size": 178181872
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.26.1/burm-x86_64-unknown-linux-gnu",
+      "sha256": "a57ca3bcf7db8d0eaad49044732ec578d94a1ef135729ecf3f196f710e501b02",
+      "size": 178434224
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.26.0/burm-x86_64-pc-windows-msvc.exe",
-      "sha256": "4e5bb3c54191c06a301372b0dc9d2a22cec647fe51164e908c01d62712a22368",
-      "size": 179046912
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.26.1/burm-x86_64-pc-windows-msvc.exe",
+      "sha256": "5629380f188c4ac4a13fbf562d4a0a903826782e3bc208742632125a6f8989b6",
+      "size": 179406848
     }
   }
 }
