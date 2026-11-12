@@ -1,6 +1,6 @@
 {
   "version": "0.26.2",
-  "notes": "BURM 0.26.2",
+  "notes": "BURM 0.26.2: finishing a building stage no longer drops the connection. The client now reads server numbers exactly, so a freshly built foundation or stage can no longer make it reject the world and reconnect. The same fault could stop a server loading its own checkpoint after a restart. The client log also records why a connection was lost. Compatible with 0.26.0 and 0.26.1 clients and servers; older clients keep the fault until they update.",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.26.2/burm-x86_64-unknown-linux-gnu",
