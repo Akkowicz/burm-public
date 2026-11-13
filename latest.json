@@ -1,16 +1,16 @@
 {
-  "version": "0.26.2",
-  "notes": "BURM 0.26.2: finishing a building stage no longer drops the connection. The client now reads server numbers exactly, so a freshly built foundation or stage can no longer make it reject the world and reconnect. The same fault could stop a server loading its own checkpoint after a restart. The client log also records why a connection was lost. Compatible with 0.26.0 and 0.26.1 clients and servers; older clients keep the fault until they update.",
+  "version": "0.27.0",
+  "notes": "BURM 0.27.0",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.26.2/burm-x86_64-unknown-linux-gnu",
-      "sha256": "6dc49b90735ccc786bb3bb448805c7e6c9ba0ace848b2a5b8bb84078efd86fb4",
-      "size": 178501104
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.27.0/burm-x86_64-unknown-linux-gnu",
+      "sha256": "e42e309690c10da94813854cab561c08c77dd8179baf7c611751e3bdeca217de",
+      "size": 222688368
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.26.2/burm-x86_64-pc-windows-msvc.exe",
-      "sha256": "c7d160611e2e4fda9414b468be6c37704174123964e1f6affd6436ec68254f94",
-      "size": 179487232
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.27.0/burm-x86_64-pc-windows-msvc.exe",
+      "sha256": "fcf532d689ebbc9d69678106596192f0bfde389b0739657791807e180eda8be9",
+      "size": 223589376
     }
   }
 }
