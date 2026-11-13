@@ -1,16 +1,16 @@
 {
-  "version": "0.28.0",
-  "notes": "Incompatible release: every player and server must update together. Characters carry 64 inventory slots instead of 32. Raw meat, fish, fillets, roots and onions roast on a lit fire one for one, with no cookware, herb or batch minimum; herbs add quality from the Cook menu. Wooden materials burn by weight from the hand, while wooden tools and furniture burn only when put in the fire. Creature attacks land by height: small animals strike hands and legs, mid-size ones mostly limbs, tall ones torso and head. The public realm starts afresh on a new world, so characters are registered anew.",
+  "version": "0.29.0",
+  "notes": "BURM 0.29.0",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.28.0/burm-x86_64-unknown-linux-gnu",
-      "sha256": "bff6b1bf039cb5e44435b33362cc0aeb63cb1749bf2cefaa8c5fb63c641496a0",
-      "size": 222737136
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.29.0/burm-x86_64-unknown-linux-gnu",
+      "sha256": "d96a5d3f12a2468f8eac43fa5f8b743883cd9e6cfa567212b7426d31053ba053",
+      "size": 223309552
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.28.0/burm-x86_64-pc-windows-msvc.exe",
-      "sha256": "41ae6a5f77d6ec78917cfb5aa9908834e31b385d708badd7a6d7bfd69240bdfe",
-      "size": 223639040
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.29.0/burm-x86_64-pc-windows-msvc.exe",
+      "sha256": "9bbf4c68c54a96ff789c7e6a89b020935086e833bd87cf63ffb9fcfe5d9e641d",
+      "size": 224300544
     }
   }
 }
