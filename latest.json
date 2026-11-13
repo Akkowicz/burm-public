@@ -1,6 +1,6 @@
 {
   "version": "0.27.0",
-  "notes": "BURM 0.27.0",
+  "notes": "Incompatible release: every player and server must update together. Realm sounds are raised by the server and heard by characters in range, with new clips and music. Cooking runs through Cook flyouts on ingredients, cookware and fires. Fuel burns longer, food cools slowly and warm meals nourish more; Repair and Running are new skills. Timber crafts cut log by weight and ruined goods leave scrap. Ancient trees wither and fall, growing bracket fungus and sulphur tuft for gathering and poison coatings; creatures age and corpses rot. Carrying starts to weigh at 80 kg.",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.27.0/burm-x86_64-unknown-linux-gnu",
