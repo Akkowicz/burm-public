@@ -1,6 +1,6 @@
 {
   "version": "0.28.0",
-  "notes": "BURM 0.28.0",
+  "notes": "Incompatible release: every player and server must update together. Characters carry 64 inventory slots instead of 32. Raw meat, fish, fillets, roots and onions roast on a lit fire one for one, with no cookware, herb or batch minimum; herbs add quality from the Cook menu. Wooden materials burn by weight from the hand, while wooden tools and furniture burn only when put in the fire. Creature attacks land by height: small animals strike hands and legs, mid-size ones mostly limbs, tall ones torso and head. The public realm starts afresh on a new world, so characters are registered anew.",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.28.0/burm-x86_64-unknown-linux-gnu",
