@@ -1,16 +1,16 @@
 {
-  "version": "0.29.0",
-  "notes": "Incompatible release: every player and server must update together. New world features: islands, rocky coasts, reefs and kelp; mesas, canyons, dunes, salt flats and oases; a volcano caldera with geothermal fields, hot springs, sulfur and obsidian; limestone karst with sinkholes, caverns and cenotes; mountain lakes and tarns; and glaciers. A moon-driven tide floods tidal flats and mangroves, where shellfish can be gathered. Body temperature follows a seasonal climate: cold slows stamina recovery and can kill, heat costs stamina and water, and straw, wool and fur clothing keep you warm. Sea ice forms in winter and all ice is slippery. The public realm starts afresh on a new world, so characters are registered anew.",
+  "version": "0.30.0",
+  "notes": "BURM 0.30.0",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.29.0/burm-x86_64-unknown-linux-gnu",
-      "sha256": "d96a5d3f12a2468f8eac43fa5f8b743883cd9e6cfa567212b7426d31053ba053",
-      "size": 223309552
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.30.0/burm-x86_64-unknown-linux-gnu",
+      "sha256": "0709a7e3da3739bbca13b091ce3e24e0aca9df14d153b11dc30cb562b23141c8",
+      "size": 223639792
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.29.0/burm-x86_64-pc-windows-msvc.exe",
-      "sha256": "9bbf4c68c54a96ff789c7e6a89b020935086e833bd87cf63ffb9fcfe5d9e641d",
-      "size": 224300544
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.30.0/burm-x86_64-pc-windows-msvc.exe",
+      "sha256": "4b4a122a73bfb98528070459f5aed0fe663d0f76b8e031d5922e11349ad60bba",
+      "size": 224658944
     }
   }
 }
