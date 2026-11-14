@@ -1,6 +1,6 @@
 {
   "version": "0.30.0",
-  "notes": "BURM 0.30.0",
+  "notes": "Incompatible release: everyone must update and realms start fresh. Lakes and rivers freeze in winter and ice seals the water: cut ice holes to drink and ice-fish, and haul yourself out if you fall through. Glaciers hold frozen ice-age remains (mammoth, woolly rhino, cave bear, sabre-toothed cat, giant elk) to chip out for ivory, ancient fur, sabre fangs and giant antlers. New ice-country wildlife: polar bears, walruses, arctic foxes, reindeer, arctic hares and ptarmigan. Lighting a fire is now a craft with tinder, fire steel, bow drill, char cloth, embers and banking.",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.30.0/burm-x86_64-unknown-linux-gnu",
