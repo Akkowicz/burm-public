@@ -1,6 +1,6 @@
 {
   "version": "0.31.0",
-  "notes": "BURM 0.31.0",
+  "notes": "BURM 0.31.0 — incompatible release, realms start fresh. The world is now 32 × 32 km with smooth climate from cold north to hot south and sensible biome borders; animal habitats are half as dense. Sea ice floats on the tide, and ice tiles can be selected, examined and cut. Tundra and bogs grow six new shrubs, including crowberry and cloudberry. Trees draw much further with a new far-forest stage, shadows gain a third cascade, skies show weather-driven cloud formations, and fog follows temperature and biome. The sun no longer flickers under the sun shafts, and F4 hides the HUD.",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.31.0/burm-x86_64-unknown-linux-gnu",
