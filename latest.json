@@ -1,16 +1,16 @@
 {
-  "version": "0.30.1",
-  "notes": "Compatible update for 0.30. Wildlife keeps to its own climate: no more gorillas or scorpions on tundra, and marsh creatures stay out of the sea. Habitats refill 30% more slowly and spread residents further out. Fixed the moir\u00e9 pattern on snowy distant ground, forest snow flashing with shadows, and shadows popping in at distance and dusk. Added light sun shafts (Graphics settings: Sun shafts). Standing habitats always offer Dismantle.",
+  "version": "0.31.0",
+  "notes": "BURM 0.31.0",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.30.1/burm-x86_64-unknown-linux-gnu",
-      "sha256": "7a4620a8f767698c75f5b99aae5bf3fc30389c057cd8faf636878a4e520dff41",
-      "size": 223796848
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.31.0/burm-x86_64-unknown-linux-gnu",
+      "sha256": "60d6dab812e9b88e9e03d72ea73e8690c0733ef5ca3957efe1f9a734c425bc64",
+      "size": 223983856
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.30.1/burm-x86_64-pc-windows-msvc.exe",
-      "sha256": "85cdcb5590680dc1ee1bb39b966071928689e0a3255d48bfe7c5a99ae52dc9ba",
-      "size": 224829440
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.31.0/burm-x86_64-pc-windows-msvc.exe",
+      "sha256": "2412bb5372659774e75caba4a72eaa3c573f11ebdeed5009531975de2408ba28",
+      "size": 225479680
     }
   }
 }
