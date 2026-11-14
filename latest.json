@@ -1,16 +1,16 @@
 {
-  "version": "0.30.0",
-  "notes": "Incompatible release: everyone must update and realms start fresh. Lakes and rivers freeze in winter and ice seals the water: cut ice holes to drink and ice-fish, and haul yourself out if you fall through. Glaciers hold frozen ice-age remains (mammoth, woolly rhino, cave bear, sabre-toothed cat, giant elk) to chip out for ivory, ancient fur, sabre fangs and giant antlers. New ice-country wildlife: polar bears, walruses, arctic foxes, reindeer, arctic hares and ptarmigan. Lighting a fire is now a craft with tinder, fire steel, bow drill, char cloth, embers and banking.",
+  "version": "0.30.1",
+  "notes": "BURM 0.30.1",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.30.0/burm-x86_64-unknown-linux-gnu",
-      "sha256": "0709a7e3da3739bbca13b091ce3e24e0aca9df14d153b11dc30cb562b23141c8",
-      "size": 223639792
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.30.1/burm-x86_64-unknown-linux-gnu",
+      "sha256": "7a4620a8f767698c75f5b99aae5bf3fc30389c057cd8faf636878a4e520dff41",
+      "size": 223796848
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.30.0/burm-x86_64-pc-windows-msvc.exe",
-      "sha256": "4b4a122a73bfb98528070459f5aed0fe663d0f76b8e031d5922e11349ad60bba",
-      "size": 224658944
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.30.1/burm-x86_64-pc-windows-msvc.exe",
+      "sha256": "85cdcb5590680dc1ee1bb39b966071928689e0a3255d48bfe7c5a99ae52dc9ba",
+      "size": 224829440
     }
   }
 }
