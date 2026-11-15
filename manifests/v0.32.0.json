@@ -1,6 +1,6 @@
 {
   "version": "0.32.0",
-  "notes": "BURM 0.32.0",
+  "notes": "Game 0.32 is an incompatible release: every player and server must update together, and realms start fresh, because world generation and the intents shared between client and server changed. Blackthorn bushes and wild hedgerows give way to spear thistles that yield plant fibre, and sea stacks keep their shape on far terrain instead of reading as spikes. Deciduous trees turn, drop and regrow their leaves with the seasons. Lava splutters, smokes in plumes scaled to its size and carries a moving crust. Fish gather in sparser, unevenly spaced shoals, snow and frost no longer settle on characters, and admins can fast-forward the realm to an hour of the next day. Distant terrain is shaded with smooth normals, and a broad performance pass moves terrain streaming onto worker threads and makes dense forests, shadows, water reflections and hover outlines much cheaper to draw.",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.32.0/burm-x86_64-unknown-linux-gnu",
