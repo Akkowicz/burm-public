@@ -1,6 +1,6 @@
 {
   "version": "0.33.1",
-  "notes": "BURM 0.33.1",
+  "notes": "Compatible update: thorny bushes prick only as far as they have grown, so seedlings no longer catch you and saplings only close to the stem, and lava smoke fades into fog and overcast instead of standing out through it.",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.33.1/burm-x86_64-unknown-linux-gnu",
