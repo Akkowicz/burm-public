@@ -1,15 +1,15 @@
 {
-  "version": "0.33.0",
-  "notes": "Incompatible release: every player and server must update together, and the realm starts fresh on a new seed. Picking berries leaves the bush standing, bare until its berries grow back six days later, and no bush fruits in winter; an active axe clears a berry bush. Bushes and ferns sway from the root, bush models are cleaner, and admins can /tp X Z to a map position.",
+  "version": "0.33.1",
+  "notes": "BURM 0.33.1",
   "platforms": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.33.0/burm-x86_64-unknown-linux-gnu",
-      "sha256": "0f0b5d31b96ddfaefd7db1dbf4d219382e7a2475b3ad8901c0fd351638244bbf",
-      "size": 224530480
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.33.1/burm-x86_64-unknown-linux-gnu",
+      "sha256": "01af84a67ba5a6db3f41dde7526bd78fb31bc4e82a1348015cf903b35f6bc4e2",
+      "size": 224530608
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.33.0/burm-x86_64-pc-windows-msvc.exe",
-      "sha256": "1d398d2dee99717a11752a4a9d4de3b40ddcc2de9cbe3bad2804a20f3f99f350",
+      "url": "https://github.com/Akkowicz/burm-public/releases/download/v0.33.1/burm-x86_64-pc-windows-msvc.exe",
+      "sha256": "a27b0aaf8334276d8fa3e1916b6bc3cc4d841a6bf0239fd38fee0b594808013c",
       "size": 226112512
     }
   }
